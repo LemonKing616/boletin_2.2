@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="137bf803-c811-474b-b525-23ca10c336ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boletin_2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejer_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rfgututu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yuoyuouo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2YS2Ndkx75PODKEx9zBMcOzJbuB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Vacc/Desktop/0_JAVA/boletin_2.2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137bf803-c811-474b-b525-23ca10c336ad" name="Changes" comment="" />
+      <created>1700504621253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700504621253</updated>
+      <workItem from="1700504622251" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
