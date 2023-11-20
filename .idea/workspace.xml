@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="137bf803-c811-474b-b525-23ca10c336ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boletin_2.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejer_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rfgututu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuoyuouo.java" afterDir="false" />
+    <list default="true" id="137bf803-c811-474b-b525-23ca10c336ad" name="Changes" comment="21/11_19:50">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejer_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejer_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700504621253</updated>
-      <workItem from="1700504622251" duration="1289000" />
+      <workItem from="1700504622251" duration="2958000" />
     </task>
+    <task id="LOCAL-00001" summary="21/11_19:50">
+      <option name="closed" value="true" />
+      <created>1700506294896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700506294896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21/11_19:50" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/11_19:50" />
   </component>
 </project>
